@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "825473105125",
+    "project_id": "ycompany-e6caf",
+    "storage_bucket": "ycompany-e6caf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825473105125:android:d4f22f2f57c08e9cc0680c",
+        "android_client_info": {
+          "package_name": "com.example.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825473105125-f2ra7ol7np348qm6rm1927l14nakhlbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRM-Z823svnGFilerkOZm5JU0WdkDCSqA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825473105125-f2ra7ol7np348qm6rm1927l14nakhlbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
